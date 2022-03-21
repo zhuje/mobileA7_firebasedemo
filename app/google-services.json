@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973418740476",
+    "project_id": "fir-demo-dan",
+    "storage_bucket": "fir-demo-dan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973418740476:android:80dc6c4b7559a40c30f579",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973418740476-i7ai8e04ch6k9be5rqe43nikufscd38g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJI_uaWDCl_B0emUXGOVG59ARluJTxvmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973418740476-i7ai8e04ch6k9be5rqe43nikufscd38g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
