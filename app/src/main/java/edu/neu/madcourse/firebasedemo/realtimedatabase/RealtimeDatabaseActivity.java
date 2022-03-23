@@ -98,6 +98,8 @@ public class RealtimeDatabaseActivity extends AppCompatActivity {
         user = new User("user1", "0");
         Task t1 = mDatabase.child("users").child(user.username).setValue(user);
 
+
+
         user = new User("user2", "0");
         Task t2 = mDatabase.child("users").child(user.username).setValue(user);
 
